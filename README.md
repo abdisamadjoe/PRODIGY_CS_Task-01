@@ -1,4 +1,4 @@
-# PRODIGY_CS_Task-01
+# PRODIGY_CS_01
 # Caesar Cipher in Python: Encryption and Decryption
 
 ### [YouTube Demonstration](https://youtu.be/V9t5QDFw8U8?si=EK1fPR6zvRmTEEnY)
